@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Abdellah, a Moroccan Web Developer 👋🏼:
 👨🏼‍🎓 studying media based computer science at University Chouaib Doukkali <br>👨🏼‍💻 working as a web developer since 2022 <br>
 
